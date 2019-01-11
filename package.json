@@ -1,0 +1,21 @@
+{
+  "name": "xlsfilecreation",
+  "version": "1.0.0",
+  "description": "xls file creation using node js",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "csv-write-stream": "^2.0.0",
+    "excel4node": "^1.7.0",
+    "exceljs": "^1.6.3",
+    "mongo-xlsx": "^1.0.12",
+    "spread_sheet": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
